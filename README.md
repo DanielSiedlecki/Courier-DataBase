@@ -2,9 +2,9 @@
 
 ## Funkcje: 
 
-**-Dodawanie Pracowników **
+**-Dodawanie Pracowników**
 
-**-Dodawanie Przesyłek **
+**-Dodawanie Przesyłek**
 
 **-Wyszukiwanie Przesyłek**
 
@@ -13,4 +13,4 @@
 
 ## Aby uruchomić musisz zainstalować biblioteke Pillow: 
 
-** pip install Pillow **
+**pip install Pillow**
