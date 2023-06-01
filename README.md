@@ -11,6 +11,6 @@
 **-Wyszukiwanie Pracowników**
 
 
-## Aby uruchomić zainstalować: 
+## Aby uruchomić musisz zainstalować biblioteke Pillow: 
 
-** Biblioteke Pillow komendą: pip install Pillow **
+** pip install Pillow **
